@@ -58,5 +58,3 @@ def message(text):
 def printmessage (x) :
     x("HELLO WORLD")
 printmessage(message)''' 
-#function can be store in variable
-#       
