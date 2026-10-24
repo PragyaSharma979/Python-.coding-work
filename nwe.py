@@ -65,4 +65,3 @@ def details(**kwargs):
 details(name="sagar",age=22,city="panipat")
 details(a=10,b=20,c=30)
 details(id=101,name="pragya",age=18)'''
-
